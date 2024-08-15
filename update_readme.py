@@ -5,8 +5,8 @@ import re
 username = 'Yabe12'
 
 # URLs to fetch data
-contributions_url = f'https://github-readme-stats.vercel.app/api?username={Yabe12}&count_private=true'
-streak_url = f'https://github-readme-streak-stats.herokuapp.com/?user={Yabe12}&theme=dark'
+contributions_url = f'https://github-readme-stats.vercel.app/api?username={username}&count_private=true'
+streak_url = f'https://github-readme-streak-stats.herokuapp.com/?user={username}&theme=dark'
 
 # Fetch contribution stats
 contributions_data = requests.get(contributions_url).text
