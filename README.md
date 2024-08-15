@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**Yabe12/Yabe12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...<h1 align="center">Hi 👋, I'm Yeabsira Behailu</h1>
+<h1 align="center">Hi 👋, I'm Yeabsira Behailu</h1>
 <h3 align="center">A dedicated web developer and aspiring influencer</h3>
 
 - 🔭 I’m currently working on **Full Stack Development**
@@ -64,11 +56,3 @@ com/?user=Yabe12&theme=dark)
 - [LinkedIn](https://www.linkedin.com/in/yeabsira-behailu-19504b285/)
 
 
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
