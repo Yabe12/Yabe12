@@ -57,4 +57,4 @@ com/?user=Yabe12&theme=dark)
 **Feel free to connect with me:**
 - [LinkedIn](https://www.linkedin.com/in/yeabsira-behailu-19504b285/)
 
-![snake gif](https://github.com/Yabe12/Yabe12/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Yabe12/Yabe12/blob/output/github-contribution-grid-snake.svg)
