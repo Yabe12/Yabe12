@@ -1,0 +1,32 @@
+name: Update README Stats
+
+on:
+  schedule:
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository content
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run update script
+        run: python update_readme.py
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "yeabsirabehailu92@gmail.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Updated GitHub Stats"
+          git push
