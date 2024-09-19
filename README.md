@@ -52,7 +52,7 @@ com/?user=Yabe12&theme=dark)
 
 ---
 
-**Check out my GitHub profile:** [Yabe12](https://github.com/Yabe12)
+
 
 **Feel free to connect with me:**
 - [LinkedIn](https://www.linkedin.com/in/yeabsira-behailu-19504b285/)
