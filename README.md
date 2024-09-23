@@ -49,13 +49,11 @@
 ---
 
 
-
 ### Feel free to connect with me
-- 
-    <div style="position: relative; display: flex; justify-content: center; align-items: center; margin-top: 20px;">
-        <img src="https://media1.giphy.com/media/U57K09qEYWKK20jmaK/giphy.gif?cid=6c09b952dn26bcj7mf0q3dxf6xqitr1g2w54and2n5agv8g1&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" alt="Collaboration" style="max-width: 100px;" />
-        <a href="[https://www.linkedin.com/in/Yabe12](https://www.linkedin.com/in/yeabsira-behailu-19504b285/)" target="_blank" rel="noreferrer" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a>
-    </div>
+
+<div style="position: relative; display: flex; justify-content: center; align-items: center; margin-top: 20px;">
+    <img src="https://media1.giphy.com/media/U57K09qEYWKK20jmaK/giphy.gif?cid=6c09b952dn26bcj7mf0q3dxf6xqitr1g2w54and2n5agv8g1&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" alt="Collaboration" style="max-width: 100px;" />
+    <a href="https://www.linkedin.com/in/yeabsira-behailu-19504b285/" target="_blank" rel="noreferrer" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
 </div>
