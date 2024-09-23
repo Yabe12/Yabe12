@@ -25,8 +25,8 @@
 </p>
 
 ---
-
 ### Technologies
+
 | **Languages**                                      | **Frameworks**                                     | **Tools**                                    | **Databases**                                  | **Other**                                   |
 |----------------------------------------------------|----------------------------------------------------|----------------------------------------------|------------------------------------------------|---------------------------------------------|
 | ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) C++ | ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) React | ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg) Figma | ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg) PostgreSQL | ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) Node.js |
@@ -35,20 +35,11 @@
 | ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) JavaScript |                                                    |                                              |                                                |                                             |
 | ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) Python |                                                    |                                              |                                                |                                             |
 
----
-
 ### GitHub Statistics
-**Overall Stats:**
 
-![Robsan Git Status](https://github-readme-stats.vercel.app/api?username=Yabe12&show_icons=true&theme=dark&hide_title=true&count_private=true)
-
-**Most Used Languages:**
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yabe12&show_icons=true&theme=dark&hide_title=true)
-
-**Contribution Streak:**
-
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yabe12&theme=dark)
+| **Overall Stats:** | **Most Used Languages:** | **Contribution Streak:** |
+|--------------------|--------------------------|---------------------------|
+| ![Robsan Git Status](https://github-readme-stats.vercel.app/api?username=Yabe12&show_icons=true&theme=default&hide_title=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yabe12&show_icons=true&theme=default&hide_title=true) | ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yabe12&theme=default) |
 
 ---
 
@@ -57,6 +48,7 @@
 - **Longest Streak:** ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-Y%20Days-blue?style=flat&logo=github&logoColor=white)
 
 ---
+
 
 ### Check out my GitHub profile
 **[Yabe12](https://github.com/Yabe12)**
