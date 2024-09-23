@@ -2,27 +2,19 @@
 
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 
-<h1 align="center">Hi 👋, I'm Yeabsira Behailu</h1>
-<h3 align="center">A dedicated web developer and aspiring influencer</h3>
-
----
-
-### About Me
-- 🔭 I’m currently working on **Full Stack Development**
-- 🌱 I’m learning **Firebase**
-- 📫 Reach me at: [yeabsirabehailu92@gmail.com](mailto:yeabsirabehailu92@gmail.com)
-
----
-
-### Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/Yabe12" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/Yabe12" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</p>
+|  |
+|--------------|
+| <h1 align="center" style="color: #333;">Hi 👋, I'm Yeabsira Behailu</h1> 
+  <blockquote style="text-align: center; font-size: 24px; font-weight: bold; color: #555; border-left: 5px solid #0077B5; padding-left: 10px; margin: 20px 0;">
+    A dedicated web developer and aspiring influencer
+  </blockquote>
+  <p align="center" style="font-size: 18px;">📫 Reach me at: <a href="mailto:yeabsirabehailu92@gmail.com" style="color: #0077B5;">yeabsirabehailu92@gmail.com</a></p>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/Yabe12" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
+  <p align="center" style="font-size: 16px; color: #777;">Let's connect and collaborate!</p> |
 
 ---
 ### Technologies
