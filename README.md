@@ -48,6 +48,17 @@
 - **Longest Streak:** ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-Y%20Days-blue?style=flat&logo=github&logoColor=white)
 
 ---
+<div align="center" style="background-color: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
+
+# GitHub Profile Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yabe12&theme=white&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+
+
+---
 
 
 ### Check out my GitHub profile
