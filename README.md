@@ -1,17 +1,22 @@
 <div style="background-color: #f0f8ff; padding: 20px; border-radius: 10px;">
-    <h1 align="center" style="color: #333; font-family: 'Arial', sans-serif; text-shadow: 1px 1px 2px #ccc;">✨ Hi 👋, I'm Yeabsira Behailu ✨</h1>
+    <h1 align="center" style="color: #333; font-family: 'Arial', sans-serif; text-shadow: 1px 1px 2px #ccc;">✨ Hello 👋, I'm Yeabsira Behailu ✨</h1>
     <img src="https://i.gifer.com/Ud0S.gif" alt="Collaboration" style="max-width: 100px; margin-top: 10px;" />
     <blockquote style="text-align: center; font-size: 24px; font-weight: bold; color: #555; border-left: 5px solid #0077B5; padding-left: 10px; margin: 20px 0; font-style: italic; background-color: #f9f9f9; border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
-        A dedicated web developer and aspiring influencer 🌍
+        Passionate web developer and aspiring influencer 🌍
     </blockquote>
-    <p align="center" style="font-size: 18px; font-family: 'Arial', sans-serif;">📫 Reach me at: <a href="mailto:yeabsirabehailu92@gmail.com" style="color: #0077B5; text-decoration: underline; font-weight: bold;">yeabsirabehailu92@gmail.com</a></p>
-
+    <p align="center" style="font-size: 18px; font-family: 'Arial', sans-serif;">📫 You can reach me at: <a href="mailto:yeabsirabehailu92@gmail.com" style="color: #0077B5; text-decoration: underline; font-weight: bold;">yeabsirabehailu92@gmail.com</a></p>
+    
+ <p align="center" style="font-size: 18px; font-family: 'Arial', sans-serif; margin-top: 20px;">🌐 Let's connect:</p>
+    <div style="display: flex; justify-content: center; gap: 20px; margin-top: 10px;">
+        <a href="https://www.linkedin.com/in/yeabsira-behailu-19504b285/" target="_blank" rel="noreferrer">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+        <a href="https://leetcode.com/u/yabe12/" target="_blank" rel="noreferrer">
+            <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" />
+        </a>
+    </div>
 </div>
 
-
-
----
----
 
 ### GitHub Statistics
 
