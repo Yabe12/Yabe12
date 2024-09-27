@@ -56,5 +56,9 @@
     <a href="https://www.linkedin.com/in/yeabsira-behailu-19504b285/" target="_blank" rel="noreferrer" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+    <a href="https://leetcode.com/u/yabe12/" target="_blank" rel="noreferrer" style="position: absolute; top: 50%; left: 60%; transform: translate(-50%, -50%); margin-left: 50px;">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" />
+    </a>
 </div>
+
 
