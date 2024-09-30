@@ -42,10 +42,12 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yabe12&theme=transparent" height="180em" alt="Commitments"/>
 </div>
 
-<p align="center">
-<img src="https://dummyimage.com/600x100/000/fff&text=Commitment+is+the+key+to+success" alt="Commitment Quote" />
+<div style="text-align: center; margin: 20px; background-color: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
+    <img src="https://dummyimage.com/600x100/000/fff&text=Commitment+is+what+transforms+a+promise+into+reality" alt="Commitment Quote" style="border-radius: 10px;" />
+    <p style="font-size: 24px; color: #333; margin-top: 10px;">✨— Abraham Lincoln ✨</p>
+    <p style="font-size: 16px; color: #333; margin-top: 5px;">💪 Let's turn our commitments into reality! 💖</p>
+</div>
 
-</p>
 
 
 
