@@ -25,16 +25,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Yabe12&no-bg=true&no-frame=true&row=2&column=3"/>
 </div>
 <div align="center">
-  <table>
-    <tr>
-      <td>
+
+   
+ <td>
         <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yabe12&theme=transparent" height="180em" alt="Stats"/>
       </td>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yabe12&show_icons=true&theme=default&hide_title=true&count_private=true" height="180em" alt="Robsan Git Status"/>
-      </td>
-    </tr>
-  </table>
+   
+  
+
 
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yabe12&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yabe12&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
