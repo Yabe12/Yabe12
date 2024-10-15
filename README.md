@@ -14,31 +14,26 @@
 
 
 ### GitHub Statistics
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yabe12&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&langs_count=10" alt="Top Languages"/>
-</p>
-<p align="center">
-  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Yabe12&hide_border=true&theme=transparent" /> 
-</p>
-<!--Trophy-->
-<div align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=Yabe12&no-bg=true&no-frame=true&row=2&column=3"/>
-</div>
+
 <div align="center">
-
-   
- <td>
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yabe12&theme=transparent" height="180em" alt="Stats"/>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yabe12" alt="GitHub Streak" />
       </td>
-   
-  
-
-
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yabe12&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yabe12&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yabe12&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yabe12&theme=transparent" height="180em" alt="Commitments"/>
+            <td>
+             <img src="https://github-profile-trophy.vercel.app/?username=Yabe12&row=2&column=3" alt="Profile Trophies" />
+        </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Yabe12&show_icons=true&locale=en" alt="GitHub Stats" />
+      </td>
+    
+  </tr>
+  </table>
 </div>
+
+
+
 
 <div style="text-align: center; margin: 20px; background-color: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
     <img src="https://dummyimage.com/600x100/000/fff&text=Commitment+is+what+transforms+a+promise+into+reality" alt="Commitment Quote" style="border-radius: 10px;" />
