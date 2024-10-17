@@ -1,10 +1,12 @@
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Yabe12&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Yabe12)
+<!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
+<div align="left" width="100%" height="100%">
+ 
 
 
 
 <div style="background-color: #f0f8ff; padding: 20px; border-radius: 10px;">
-    <h1 align="center" style="color: #333; font-family: 'Arial', sans-serif; text-shadow: 1px 1px 2px #ccc;">✨ Hello 👋, I'm Yeabsira Behailu ✨</h1>
-    <img src="https://i.gifer.com/Ud0S.gif" alt="Collaboration" style="max-width: 100px; margin-top: 10px;" />
     <blockquote style="text-align: center; font-size: 24px; font-weight: bold; color: #555; border-left: 5px solid #0077B5; padding-left: 10px; margin: 20px 0; font-style: italic; background-color: #f9f9f9; border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
         Passionate web developer and aspiring influencer 🌍
     </blockquote>
@@ -13,26 +15,23 @@
 
 
 
-### GitHub Statistics
 
-<div align="center">
-  <table>
+
+<div align="center" style="background-color:black;">
+  <table style="background-color:black; border-collapse:collapse;">
     <tr>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yabe12" alt="GitHub Streak" />
+      <td style="background-color:black;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yabe12&theme=black-ice&hide_border=true" alt="GitHub Streak" />
       </td>
-            <td>
-             <img src="https://github-profile-trophy.vercel.app/?username=Yabe12&row=2&column=3" alt="Profile Trophies" />
-        </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Yabe12&show_icons=true&locale=en" alt="GitHub Stats" />
+      <td style="background-color:black;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Yabe12&show_icons=true&locale=en&theme=dark&hide_border=true" alt="GitHub Stats" />
       </td>
-    
-  </tr>
+    </tr>
   </table>
 </div>
 
 
+[![Yeasin`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yabe12&theme=github-compact)](https://github.com/Yabe12/github-readme-activity-graph)
 
 
 <div style="text-align: center; margin: 20px; background-color: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
