@@ -48,7 +48,7 @@
 
 
 
-<h2> My Projects 📁</h2>
+<h2> My Projects 🥳📁</h2>
 <a href="https://github.com/Yabe12/kuraz-project-.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yabe12&theme=react&repo=kuraz-project-" />
 </a>
