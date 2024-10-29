@@ -51,11 +51,38 @@
 [![Yeasin`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yabe12&theme=github-compact)](https://github.com/Yabe12/github-readme-activity-graph)
 
 
-<div style="text-align: center; margin: 20px; background-color: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
-    <img src="https://dummyimage.com/600x100/000/fff&text=Commitment+is+what+transforms+a+promise+into+reality" alt="Commitment Quote" style="border-radius: 10px;" />
-    <p style="font-size: 24px; color: #333; margin-top: 10px;">✨— Abraham Lincoln ✨</p>
-    <p style="font-size: 16px; color: #333; margin-top: 5px;">💪 Let's turn our commitments into reality! 💖</p>
+
+
+ ## 🛠️ Languages and Tools
+
+<div align="">
+
+  ### 🌐 Languages
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+
+  ### 🎨 Frontend
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Material%20UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
+
+  ### 🔧 Backend
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+
+  ### 🗄️ Databases
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+
+  ### 🛠️ Development Tools
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
 </div>
+
+
 
 
 
