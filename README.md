@@ -65,6 +65,12 @@
 <br>
 <br>
 
+## 📊 Coding Activity
+<div align="center">
+
+  <img src="https://leetcard.jacoblin.cool/yabe12?ext=heatmap&theme=dark&width=900&height=400" alt="Leetcode Stats" />
+
+</div>
 
 ---
 
