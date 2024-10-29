@@ -7,6 +7,23 @@
 
 
 <div style="background-color: #f0f8ff; padding: 20px; border-radius: 10px;">
+<div id="header" align="center">
+    <!-- GIF Image -->
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExem9pdDNmdjczb25pMzVrbGRvYWlzbzR2OHJmMGFmaXZka2tlODJ1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif" width="300" style="margin-bottom: 10px;" />
+ <!-- Social Badges -->
+    <div id="badges" style="margin-top: 10px;">
+        <!-- LinkedIn Badge -->
+        <a href="https://www.linkedin.com/in/yeabsira-behailu-19504b285/" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="200" />
+        </a>
+  <!-- Email Badge -->
+        <a href="mailto:yeabsirabehailu92@gmail.com" target="_blank" style="margin-left: 10px;">
+            <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" width="200" />
+        </a>
+    </div>
+</div>
+
+</div>
     <blockquote style="text-align: center; font-size: 24px; font-weight: bold; color: #555; border-left: 5px solid #0077B5; padding-left: 10px; margin: 20px 0; font-style: italic; background-color: #f9f9f9; border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
         Passionate web developer and aspiring influencer 🌍
     </blockquote>
@@ -82,16 +99,6 @@
 ---
 
 
-### Feel free to connect with me
-    
- <p align="center" style="font-size: 18px; font-family: 'Arial', sans-serif; margin-top: 20px;">🌐 Let's connect:</p>
-   <p align="center" style="font-size: 18px; font-family: 'Arial', sans-serif;">📫 You can reach me at: <a href="mailto:yeabsirabehailu92@gmail.com" style="color: #0077B5; text-decoration: underline; font-weight: bold;">yeabsirabehailu92@gmail.com</a></p>
-<div style="position: relative; display: flex; justify-content: center; align-items: center; margin-top: 20px;">
-    <img src="https://media1.giphy.com/media/U57K09qEYWKK20jmaK/giphy.gif?cid=6c09b952dn26bcj7mf0q3dxf6xqitr1g2w54and2n5agv8g1&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" alt="Collaboration" style="max-width: 100px;" />
-    <a href="https://www.linkedin.com/in/yeabsira-behailu-19504b285/" target="_blank" rel="noreferrer" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-   
-</div>
+
 
 
