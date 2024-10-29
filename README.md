@@ -64,13 +64,20 @@
 
 <br>
 <br>
+ 
+ ## 📊 Coding Activity at LeetCode
+<div align="center" style="position: relative; display: inline-block;">
 
-## 📊 Coding Activity
-<div align="center">
-
+  <!-- LeetCode Heatmap -->
   <img src="https://leetcard.jacoblin.cool/yabe12?ext=heatmap&theme=dark&width=900&height=400" alt="Leetcode Stats" />
 
+  <!-- LeetCode Badge with Smart Positioning -->
+  <a href="https://leetcode.com/u/yabe12/" target="_blank" rel="noreferrer" style="position: absolute; top: 10px; right: 10px;">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode Badge" />
+  </a>
+
 </div>
+
 
 ---
 
@@ -84,9 +91,7 @@
     <a href="https://www.linkedin.com/in/yeabsira-behailu-19504b285/" target="_blank" rel="noreferrer" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://leetcode.com/u/yabe12/" target="_blank" rel="noreferrer" style="position: absolute; top: 50%; left: 60%; transform: translate(-50%, -50%); margin-left: 50px;">
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" />
-    </a>
+   
 </div>
 
 
