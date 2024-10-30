@@ -6,7 +6,7 @@
         <td style="text-align: center; padding: 20px; border: none;">
             <!-- GIF Image -->
             <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExem9pdDNmdjczb25pMzVrbGRvYWlzbzR2OHJmMGFmaXZka2tlODJ1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif" 
-                 width="500" 
+                 width="400" 
                  style="margin-bottom: 10px; border-radius: 10px;" />
         </td>
         <td style="text-align: center; padding: 20px; border: none;">
@@ -16,13 +16,13 @@
                 <a href="https://www.linkedin.com/in/yeabsira-behailu-19504b285/" target="_blank">
                     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" 
                          alt="LinkedIn Badge" 
-                         width="100" />
+                         width="150" />
                 </a>
                 <!-- Email Badge -->
                 <a href="mailto:yeabsirabehailu92@gmail.com" target="_blank" style="margin-left: 10px;">
                     <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white" 
                          alt="Email Badge" 
-                         width="100" />
+                         width="120" />
                 </a>
             </div>
         </td>
