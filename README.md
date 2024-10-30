@@ -53,79 +53,10 @@
 
 
 
- ## 🛠️ Languages and Tools
-
-<div align="">
-
-  ### 🌐 Languages
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-
-  ### 🎨 Frontend
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Material%20UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
-
-  ### 🔧 Backend
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-
-  ### 🗄️ Databases
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-
-  ### 🛠️ Development Tools
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-
-</div>
-
-
-
-
-
-
-
-<div align="center" style="background-color: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
-
-
-
-<h2> My Projects📁</h2>
-<a href="https://github.com/Yabe12/kuraz-project-.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yabe12&theme=react&repo=kuraz-project-" />
-</a>
-<a href="https://github.com/Yabe12/BACKEND-BUSINESS-DIRECTORY.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yabe12&theme=react&repo=BACKEND-BUSINESS-DIRECTORY" />
-</a>
-<a href="https://github.com/Yabe12/Techtonic-constitution.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yabe12&theme=react&repo=Techtonic-constitution" />
-</a>
-
-
-
-
-<br>
-<br>
  
- ## 📊 Coding Activity at LeetCode   <!-- LeetCode Badge with Smart Positioning -->
-  <a href="https://leetcode.com/u/yabe12/" target="_blank" rel="noreferrer" style="position: absolute; top: 10px; right: 10px;">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode Badge" />
-  </a>
-<div align="center" style="position: relative; display: inline-block;">
 
-  <!-- LeetCode Heatmap -->
-  <img src="https://leetcard.jacoblin.cool/yabe12?ext=heatmap&theme=dark&width=900&height=400" alt="Leetcode Stats" />
+## Activitys 📁
 
-
-
-</div>
-
-
----
-
-
-
-
-
+| Project | LeetCode Activity |
+| ------- | ------------------ |
+| [![Kuraz Project](https://github-readme-stats.vercel.app/api/pin/?username=Yabe12&theme=react&repo=kuraz-project-)](https://github.com/Yabe12/kuraz-project-.git) <br> [![Backend Business Directory](https://github-readme-stats.vercel.app/api/pin/?username=Yabe12&theme=react&repo=BACKEND-BUSINESS-DIRECTORY)](https://github.com/Yabe12/BACKEND-BUSINESS-DIRECTORY.git) <br> [![Techtonic Constitution](https://github-readme-stats.vercel.app/api/pin/?username=Yabe12&theme=react&repo=Techtonic-constitution)](https://github.com/Yabe12/Techtonic-constitution.git) | 📊 Coding Activity at LeetCode <br> [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/yabe12/) <br> ![LeetCode Stats](https://leetcard.jacoblin.cool/yabe12?ext=heatmap&theme=dark&width=500&height=300) |
