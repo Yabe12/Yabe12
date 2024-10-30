@@ -1,30 +1,36 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Yabe12&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Yabe12)
 <!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
-<div align="left" width="100%" height="100%">
- 
+  <table style="width: 100%; background-color: #f0f8ff; border-radius: 10px; border: none;">
+    <tr>
+        <td style="text-align: center; padding: 20px; border: none;">
+            <!-- GIF Image -->
+            <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExem9pdDNmdjczb25pMzVrbGRvYWlzbzR2OHJmMGFmaXZka2tlODJ1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif" 
+                 width="500" 
+                 style="margin-bottom: 10px; border-radius: 10px;" />
+        </td>
+        <td style="text-align: center; padding: 20px; border: none;">
+            <!-- Social Badges -->
+            <div>
+                <!-- LinkedIn Badge -->
+                <a href="https://www.linkedin.com/in/yeabsira-behailu-19504b285/" target="_blank">
+                    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" 
+                         alt="LinkedIn Badge" 
+                         width="100" />
+                </a>
+                <!-- Email Badge -->
+                <a href="mailto:yeabsirabehailu92@gmail.com" target="_blank" style="margin-left: 10px;">
+                    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white" 
+                         alt="Email Badge" 
+                         width="100" />
+                </a>
+            </div>
+        </td>
+    </tr>
+</table>
 
 
-
-<div style="background-color: #f0f8ff; padding: 20px; border-radius: 10px;">
-<div id="header" align="center">
-    <!-- GIF Image -->
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExem9pdDNmdjczb25pMzVrbGRvYWlzbzR2OHJmMGFmaXZka2tlODJ1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif" width="300" style="margin-bottom: 10px;" />
- <!-- Social Badges -->
-    <div id="badges" style="margin-top: 10px;">
-        <!-- LinkedIn Badge -->
-        <a href="https://www.linkedin.com/in/yeabsira-behailu-19504b285/" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="200" />
-        </a>
-  <!-- Email Badge -->
-        <a href="mailto:yeabsirabehailu92@gmail.com" target="_blank" style="margin-left: 10px;">
-            <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" width="200" />
-        </a>
-    </div>
-</div>
-
-</div>
-    <blockquote style="text-align: center; font-size: 24px; font-weight: bold; color: #555; border-left: 5px solid #0077B5; padding-left: 10px; margin: 20px 0; font-style: italic; background-color: #f9f9f9; border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+   <blockquote style="text-align: center; font-size: 24px; font-weight: bold; color: #555; border-left: 5px solid #0077B5; padding-left: 10px; margin: 20px 0; font-style: italic; background-color: #f9f9f9; border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
         Passionate web developer and aspiring influencer 🌍
     </blockquote>
  
