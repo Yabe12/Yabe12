@@ -12,7 +12,6 @@
         <td style="text-align: center; padding: 20px; border: none;">
             <!-- Social Badges -->
             <div>
-                <!-- LinkedIn Badge -->
                 <a href="https://www.linkedin.com/in/yeabsira-behailu-19504b285/" target="_blank">
                     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" 
                          alt="LinkedIn Badge" 
