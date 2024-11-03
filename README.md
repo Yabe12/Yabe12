@@ -4,7 +4,6 @@
   <table style="width: 100%; background-color: #f0f8ff; border-radius: 10px; border: none;">
     <tr>
         <td style="text-align: center; padding: 20px; border: none;">
-            <!-- GIF Image -->
             <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExem9pdDNmdjczb25pMzVrbGRvYWlzbzR2OHJmMGFmaXZka2tlODJ1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif" 
                  width="400" 
                  style="margin-bottom: 10px; border-radius: 10px;" />
