@@ -52,7 +52,6 @@
 </div>
 
 
-[![Yeasin`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yabe12&theme=github-compact)](https://github.com/Yabe12/github-readme-activity-graph)
 
 
 
