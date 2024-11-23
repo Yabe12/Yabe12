@@ -38,17 +38,11 @@
 
 
 
-<div align="center" style="background-color:black;">
-  <table style="background-color:black; border-collapse:collapse;">
-    <tr>
-      <td style="background-color:black;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yabe12&theme=black-ice&hide_border=true" alt="GitHub Streak" />
-      </td>
-      <td style="background-color:black;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Yabe12&show_icons=true&locale=en&theme=dark&hide_border=true" alt="GitHub Stats" />
-      </td>
-    </tr>
-  </table>
+# Statistics <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="50" > 
+
+| My github statistics                                                                                                                                                  | Most used languages                                                                                                                                                   | Streaks                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| ![Yeabsira](https://github-readme-streak-stats.herokuapp.com/?user=Yabe12&theme=dark)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yabe12&show_icons=true&theme=dark&hide_title=true) |  ![Yeabsira Git Status](https://github-readme-stats.vercel.app/api?username=Yabe12&show_icons=true&theme=dark&hide_title=true&count_private=true) |
 </div>
 
 
